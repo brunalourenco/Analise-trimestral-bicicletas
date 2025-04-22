@@ -1,4 +1,4 @@
-# Análise locações de bicicletas 3º trim 2023
+# Análise locações de bicicletas 3º trimestre 2023
 
 A empresa empresa Ficticia XPTO presta o serviço de locação de bicicletas para pessoas físicsa e para isso conta com várias estações de início e de término.
 
